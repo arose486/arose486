@@ -14,13 +14,12 @@ This portfolio serves as a dynamic hub to highlight:
 - **Easy Navigation**: Clear structure for seamless browsing.  
 
 ## 📂 Project Structure  
-```plaintext  
 ├── index.html        # Main HTML file  
 ├── css/              # Stylesheets for the portfolio's layout and design  
 ├── js/               # JavaScript for interactivity and animations  
 ├── images/           # Assets such as project screenshots and icons  
 └── README.md         # Documentation for the repository  
-```  
+
 
 ## 🛠️ Technologies Used  
 - **HTML5**: The backbone of the webpage structure.  
@@ -30,11 +29,10 @@ This portfolio serves as a dynamic hub to highlight:
 ## 🌟 How to Explore the Portfolio  
 1. **Online**: Head to [arosePortfolio](https://arose486.github.io/arosePortfolio/) for the live experience.  
 2. **Locally**: Clone the repository to view it offline:  
-   ```bash  
-   git clone https://github.com/arose486/arosePortfolio.git  
-   cd arosePortfolio  
-   open index.html  
-   ```  
+git clone https://github.com/arose486/arosePortfolio.git  
+cd arosePortfolio  
+open index.html  
+
 ## 🤝 Contributions  
 While this portfolio is a personal project, feedback and suggestions are welcome! Feel free to open an issue or submit a pull request to help improve the codebase.  
 
