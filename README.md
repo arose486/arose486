@@ -39,7 +39,7 @@ While this portfolio is a personal project, feedback and suggestions are welcome
 ## 📫 Contact  
 Have questions or want to connect? Reach out to me at:  
 - **Email**: April04scales@gmail.com  
-- **LinkedIn**: [[Your LinkedIn Profile] ](https://www.linkedin.com/in/april04scales/) 
+- **LinkedIn**: https://www.linkedin.com/in/april04scales/
 ---
 
 Thanks for stopping by! Happy coding! 🚀  
