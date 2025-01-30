@@ -25,18 +25,22 @@ This portfolio serves as a dynamic hub to highlight:
    - [Nintendo 2018 Ratings Analytics](https://github.com/arose486/Nintendo-2018-Ratings-Analytics)  
    - [My Top Played Spotify Songs Analytics](https://github.com/arose486/My-Top-Played-Spotify-Songs-Analytics)  
    - [SQL Script](https://arose486.github.io/arosePortfolio/assets/annricebooksscript.pdf)     
+
 **Tech Writing**:
    - [Optimizing Photos for Website Documentation](https://arose486.github.io/arosePortfolio/assets/OptimizingPhotosforyourWebsiteArticle.pdf)  
    - [Tutorial on Creating A Bio Video](https://arose486.github.io/arosePortfolio/assets/BioVideoTutorial.pdf)  
+
 **Python**:
    - [Guessing Game](https://arose486.github.io/arosePortfolio/assets/guessinggame.py.pdf)  
    - [Data Cleaning Scripts](https://github.com/arose486/Data-Cleaning-Scripts)   
    - [Hotel Project](https://github.com/arose486/Hotel-Project)  
    - [Calculator Project](https://arose486.github.io/arosePortfolio/assets/calculator.py.pdf)  
+
 **C++**:
    - [Care Unit Project](https://arose486.github.io/arosePortfolio/assets/careunit.cpp)  
    - [Wizard Identification Project](https://github.com/arose486/Wizard-Identification-Project)  
    - [Wizard Creature Department Project](https://github.com/arose486/Wizard-Creature-Department-Project)  
+
 ** More projects will be added as a complete them and some that are listed may be replaced in the future**
 
 ## 🛠️ Technologies Used  
