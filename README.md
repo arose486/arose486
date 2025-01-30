@@ -31,7 +31,7 @@ This portfolio serves as a dynamic hub to highlight:
    - [Tutorial on Creating A Bio Video](https://arose486.github.io/arosePortfolio/assets/BioVideoTutorial.pdf)  
 
 **Python**:
-   - [Guessing Game](https://github.com/arose486/Guessing-Game))  
+   - [Guessing Game](https://github.com/arose486/Guessing-Game)  
    - [Data Cleaning Scripts](https://github.com/arose486/Data-Cleaning-Scripts)    
    - [Calculator Project](https://arose486.github.io/arosePortfolio/assets/calculator.py.pdf)  
 
