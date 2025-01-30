@@ -32,8 +32,7 @@ This portfolio serves as a dynamic hub to highlight:
 
 **Python**:
    - [Guessing Game](https://arose486.github.io/arosePortfolio/assets/guessinggame.py.pdf)  
-   - [Data Cleaning Scripts](https://github.com/arose486/Data-Cleaning-Scripts)   
-   - [Hotel Project](https://github.com/arose486/Hotel-Project)  
+   - [Data Cleaning Scripts](https://github.com/arose486/Data-Cleaning-Scripts)    
    - [Calculator Project](https://arose486.github.io/arosePortfolio/assets/calculator.py.pdf)  
 
 **C++**:
